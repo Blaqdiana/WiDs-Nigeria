@@ -45,7 +45,7 @@ You can find the dataset here: [Telco Customer Churn Dataset](https://www.kaggle
   * Provide actionable recommendations to reduce churn.
 
 ### Running the program:
-The file Boston_housing.ipynb is a jupiter notebook and it can be ran on Anaconda, google colab or any IDE that supports 
+The file Customer_Churn.ipynb is a jupiter notebook and it can be ran on Anaconda, google colab or any IDE that supports 
 jupiter notebooks or lab
 
 ### Requirements:
