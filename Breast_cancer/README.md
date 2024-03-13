@@ -9,7 +9,7 @@ provides an opportunity to perform Exploratory Data Analysis (EDA) to understand
 You can find the dataset here: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) and also from the UCI Machine 
 Learning Repository.
 
-## Exploratory Data Analysis (EDA) / Data 
+## Exploratory Data Analysis (EDA) / Data Visualization
 ### 1. Univariate Visualization:
 - **Objective**: Understand the distribution of individual features.
     - Histograms or density plots for each feature .
